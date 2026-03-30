@@ -1,0 +1,22 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# env
+.env
+
+# outputs
+p_au/outputs/
+
+# local models
+p_au/Qwen2.5-VL-3B-Instruct/
+p_au/mms-tts-eng/
+
+# weights
+*.bin
+*.safetensors
+*.pt
+*.pth
